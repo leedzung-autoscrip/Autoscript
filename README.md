@@ -11,7 +11,12 @@
 </h2>
 <pre>wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/allinone.sh && chmod +x allinone.sh && ./allinone.sh && rm -f allinone.sh && history -c</pre>
   <p></p>
- <h2>For Member Only</h2>
+ <h2>For Member Only
+  <img src="https://img.shields.io/badge/Member-Ordered-green.svg">
+<img src="https://img.shields.io/badge/debian%207%208%209-%26%20Above-yellowgreen.svg">
+<img src="https://img.shields.io/badge/Ubuntu%2014%2016%2018-%26%20Above-yellowgreen.svg">
+<img src="https://img.shields.io/badge/Panel-ssh%20ssl%20openvpn-yellowgreen.svg">
+</h2>
 <pre>wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/forsell.sh && chmod +x forsell.sh && ./forsell.sh && rm -f forsell.sh && history -c</pre>
   <p></p>
 <h3 align="center">Main Option Screenshots</h3>
