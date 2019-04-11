@@ -18,4 +18,3 @@
   <img src="https://raw.githubuserconleedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
    </p>
 
-<a class="copy-text">copy Text</a>
