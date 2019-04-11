@@ -4,7 +4,11 @@
 <p align="center">Email: llxxdd.fl@gmail.com</p>
 <p align="center"><a href="https://telegram.me/LeeDzung" target="_blank">Telegram: Lee Dzung</a></p>
 <p align="center"><a href="https://www.youtube.com/playlist?list=PLzBcA76rWoRg98Ef6hva_6S-Txl35Wl5p" target="_blank">Youtube Video Chanel Tutorials</a></p>
+<h2 align="center">For Everyone</h2>
 <pre>wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/allinone.sh && chmod +x allinone.sh && ./allinone.sh && rm -f allinone.sh && history -c</pre>
+  <p></p>
+ <h2 align="center">For Member Only</h2>
+<pre>wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/forsell.sh && chmod +x forsell.sh && ./forsell.sh && rm -f forsell.sh && history -c</pre>
   <p></p>
 <h3 align="center">Main Option Screenshots</h3>
 <p align="center">
