@@ -1,8 +1,9 @@
   
 <h1 align="center">Autoscript Created By Lee Dzung</h1> 
-<p align="center">Tel: +60146463183 Telegram/Whatsapp</p>
+<p align="center">Tel: +60146463183 Whatsapp</p>
 <p align="center">https://telegram.me/LeeDzung</p>
 <p align="center">Email: llxxdd.fl@gmail.com</p>
+<p align="center">Youtube Chanel https://www.youtube.com/playlist?list=PLzBcA76rWoRg98Ef6hva_6S-Txl35Wl5p</p>
 <pre>wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/allinone.sh && chmod +x allinone.sh && ./allinone.sh && rm -f allinone.sh && history -c</pre>
   <p></p>
 <h3 align="center">Main Option Screenshots</h3>
