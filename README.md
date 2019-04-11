@@ -15,5 +15,5 @@
    </p>
    <h3 align="center">Menu2 Option Screenshots</h3>
 <p align="center">
-  <img src="https://raw.githubuserconleedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
+  <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
    </p>
