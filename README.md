@@ -17,4 +17,3 @@
 <p align="center">
   <img src="https://raw.githubuserconleedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
    </p>
-
