@@ -1,8 +1,10 @@
+   <head>
 <style>
 body {
     background-image: url("http://i.imgur.com/gR4Mwu3.png");
 }
-</style>                       
+</style>
+</head>
 <h1 align="center">Autoscript Created By Lee Dzung</h1> 
 <p align="center">Tel: +60146463183 Telegram/Whatsapp</p>
 <p align="center">Email: llxxdd.fl@gmail.com</p>
@@ -20,5 +22,5 @@ wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/alli
    </p>
    <h3 align="center">Menu2 Option Screenshots</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
+  <img src="https://raw.githubuserconleedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
    </p>
