@@ -3,9 +3,10 @@
 <p align="center">Tel: +60146463183 Telegram/Whatsapp</p>
 <p align="center">Email: llxxdd.fl@gmail.com</p>
 <p align="center">
-  
+ <p align="center"></p>
 wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/allinone.sh && chmod +x allinone.sh && ./allinone.sh && rm -f allinone.sh && history -c
   </p>
+  <p align="center"></p>
 <h3 align="center">Main Option Screenshots</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/main.jpg">
