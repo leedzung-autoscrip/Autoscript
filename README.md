@@ -1,4 +1,8 @@
-                             
+<style>
+body {
+    background-image: url("http://i.imgur.com/gR4Mwu3.png");
+}
+</style>                       
 <h1 align="center">Autoscript Created By Lee Dzung</h1> 
 <p align="center">Tel: +60146463183 Telegram/Whatsapp</p>
 <p align="center">Email: llxxdd.fl@gmail.com</p>
