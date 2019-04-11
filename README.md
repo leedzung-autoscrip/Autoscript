@@ -1,6 +1,5 @@
                              
 <h1 align="center">Autoscript Created By Lee Dzung</h1> 
-<p align="center"></p>
 <p align="center">Tel: +60146463183 Telegram/Whatsapp</p>
 <p align="center">Email: llxxdd.fl@gmail.com</p>
 <h2 align="center">
