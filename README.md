@@ -26,14 +26,11 @@
    
 <h3 align="center">Panel Reseller V2 Screenshots</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
-   </p>
-   <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
-   </p>
+  <img src="https://i.imgur.com/J443PGm.jpg"></p>
+   <img src="https://i.imgur.com/4zviByB.jpg"></p>
    
    <h3 align="center">Panel Reseller V3 Screenshots</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
-   </p>
-   <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
-   </p>
+  <img src="https://i.imgur.com/VvaSnlu.jpg"></p>
+   <img src="https://i.imgur.com/fQY6DY7.jpg"></p>
+   <img src="https://i.imgur.com/1qrFDQV.jpg"></p>
