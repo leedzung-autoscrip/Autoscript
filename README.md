@@ -2,7 +2,6 @@
 <h1 align="center">Autoscript Created By Lee Dzung</h1> 
 <p align="center">Tel: +60146463183 Telegram/Whatsapp</p>
 <p align="center">Email: llxxdd.fl@gmail.com</p>
-<p align="center">
  <p align="center"></p>
 wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/allinone.sh && chmod +x allinone.sh && ./allinone.sh && rm -f allinone.sh && history -c
   </p>
