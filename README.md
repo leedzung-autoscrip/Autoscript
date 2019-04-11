@@ -1,5 +1,5 @@
   
-<h1 align="center">Autoscript Created By Lee Dzung</h1> 
+<h1 align="center">Lee Dzung <img src="https://img.shields.io/badge/Autoscript-2019-brightgreen.svg"></h1> 
 <p align="center">Tel: +60146463183 Whatsapp</p>
 <p align="center">Email: llxxdd.fl@gmail.com</p>
 <p align="center"><a href="https://telegram.me/LeeDzung" target="_blank">Telegram: Lee Dzung</a></p>
