@@ -17,3 +17,6 @@
 <p align="center">
   <img src="https://raw.githubuserconleedzung-autoscrip/Autoscript/master/Pictures/menu2.jpg">
    </p>
+<pre><copy class='no-highlight'>
+<!-- Đặt code đã mã hóa ở đây -->
+</copy></pre>
