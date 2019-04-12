@@ -21,8 +21,3 @@
    </div>
     <p></p>
 <p align="center">Copyright &copy; <a href="https://telegram.me/LeeDzung"><img src="https://img.shields.io/badge/Lee%20Dzung-Autoscript-brightgreen.svg"></a>  All rights reserved...</p></a>
-
- <div class="panel-heading">
-                     <font > <marquee direction="left" scrollamount="4" style="color: #FF0000; rows: 5
-                        background:#A9F5F2; font-size: 25px"> PANEL RESELLER SSH SSL VPN LOGIN</marquee></font>
-                      </div> 
