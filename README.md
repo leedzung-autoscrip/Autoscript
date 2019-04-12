@@ -4,19 +4,13 @@
 <p align="center">Email: llxxdd.fl@gmail.com</p>
 <h2>Public Script
 <img src="https://img.shields.io/badge/IP-Registed-red.svg">
-<img src="https://img.shields.io/badge/Supported-Linux%20x64-brightgreen.svg">
-<img src="https://img.shields.io/badge/debian%207%208%209-%26%20Above-yellowgreen.svg">
-<img src="https://img.shields.io/badge/Ubuntu%2014%2016%2018-%26%20Above-yellowgreen.svg">
-<img src="https://img.shields.io/badge/Panel-ssh%20ssl%20openvpn-yellowgreen.svg">
+<img src="https://img.shields.io/badge/Supported%20Linux%20x64-Debian%3A%207%2C%208%2C%209%20--%20Ubuntu%3A%2014%2C%2016%2C%2018%20%26%20above-yellowgreen.svg">
 </h2>
 <pre>wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/allinone.sh && chmod +x allinone.sh && ./allinone.sh && rm -f allinone.sh && history -c</pre>
   <p></p>
  <h2>Script For Member Only
   <img src="https://img.shields.io/badge/Member-Ordered-orange.svg">
-  <img src="https://img.shields.io/badge/Supported-Linux%20x64-brightgreen.svg">
-<img src="https://img.shields.io/badge/debian%207%208%209-%26%20Above-yellowgreen.svg">
-<img src="https://img.shields.io/badge/Ubuntu%2014%2016%2018-%26%20Above-yellowgreen.svg">
-<img src="https://img.shields.io/badge/Panel-ssh%20ssl%20openvpn-yellowgreen.svg">
+  <img src="https://img.shields.io/badge/Supported%20Linux%20x64-Debian%3A%207%2C%208%2C%209%20--%20Ubuntu%3A%2014%2C%2016%2C%2018%20%26%20above-yellowgreen.svg">
 </h2>
 <pre>wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/forsell.sh && chmod +x forsell.sh && ./forsell.sh && rm -f forsell.sh && history -c</pre>
   <p></p>
