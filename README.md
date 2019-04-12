@@ -1,5 +1,5 @@
 <h1 align="center">Lee Dzung Autoscript®</h1> 
-<p align="center">Tel: +60146463183 Whatsapp <a href="https://telegram.me/LeeDzung" target="_blank"><img src="https://img.shields.io/badge/Autoscript-2019-brightgreen.svg"></a> </p>
+<p align="center">Tel: +60146463183 <a href="https://telegram.me/LeeDzung" target="_blank"><img src="https://img.shields.io/badge/Whatsapp%20-Telegram-blue.svg"></a> </p>
 <p align="center">Email: llxxdd.fl@gmail.com</p>
 <p align="center"><a href="https://telegram.me/LeeDzung" target="_blank">Telegram: Lee Dzung</a></p>
 <p align="center"><a href="https://www.youtube.com/playlist?list=PLzBcA76rWoRg98Ef6hva_6S-Txl35Wl5p" target="_blank">Youtube Video Chanel Tutorials</a></p>
