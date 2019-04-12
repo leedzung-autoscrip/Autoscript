@@ -20,4 +20,4 @@
   <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/main.jpg">
    </div>
     <p></p>
-<p align="center"><a href="https://telegram.me/LeeDzung"><img src="hhttps://img.shields.io/badge/Copyright%20©-Lee%20Dzung%20Autoscript%202019.%20All%20rights%20reserved...-green.svgttps://img.shields.io/badge/Lee%20Dzung-Autoscript-brightgreen.svg"></a></p>
+<p align="center"><a href="https://telegram.me/LeeDzung"><img src="https://img.shields.io/badge/Copyright%20©-Lee%20Dzung%20Autoscript%202019.%20All%20rights%20reserved...-green.svgttps://img.shields.io/badge/Lee%20Dzung-Autoscript-brightgreen.svg"></a></p>
