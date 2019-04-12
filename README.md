@@ -13,7 +13,9 @@
 </h2>
 <pre>wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/forsell.sh && chmod +x forsell.sh && ./forsell.sh && rm -f forsell.sh && history -c</pre>
   <p></p>
-<h3>Screenshots</h3>
+<h3>Screenshots
+  <a href="https://github.com/leedzung-autoscrip/Autoscript/blob/master/demo.md" target="_blank"> <img src="https://img.shields.io/badge/Demo-OCS%20Panel%20V1%2C%202%2C%203%20%26%20Menu%20options-blue.svg"> </a>
+</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/main.jpg">
    </p>
