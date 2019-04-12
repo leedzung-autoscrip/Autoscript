@@ -17,6 +17,6 @@
   <a href="https://github.com/leedzung-autoscrip/Autoscript/blob/master/demo.md" target="_blank"> <img src="https://img.shields.io/badge/Demo-OCS%20Panel%20V1%2C%202%2C%203%20%26%20Menu%20options-blue.svg"> </a>
 </h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/main.jpg">
+  <src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/main.jpg">
    </p>
 <p align="center">Copyright &copy; <a href="https://telegram.me/LeeDzung"><img src="https://img.shields.io/badge/Lee%20Dzung-Autoscript-brightgreen.svg"> 2019. </a>  All rights reserved...</p>
