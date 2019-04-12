@@ -13,7 +13,7 @@
 </h2>
 <pre>wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/forsell.sh && chmod +x forsell.sh && ./forsell.sh && rm -f forsell.sh && history -c</pre>
   <p></p>
-<h3 Screenshots></h3>
+<h3>Screenshots</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/main.jpg">
    </p>
