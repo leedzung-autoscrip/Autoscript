@@ -1,5 +1,5 @@
 <h1 align="center">Lee Dzung Autoscript</h1> 
-<p align="center">Tel: +60146463183 <a href="https://telegram.me/LeeDzung" target="_blank"><img src="https://img.shields.io/badge/Whatsapp%20-Telegram-blue.svg"></a> </p>
+<p align="center"><a href="https://telegram.me/LeeDzung" target="_blank"><img src="https://img.shields.io/badge/%2B60146463183-Whatsapp%2FTelegram-brightgreen.svg"></a> </p>
 <p align="center">Tutorials How Installation <a href="https://www.youtube.com/playlist?list=PLzBcA76rWoRg98Ef6hva_6S-Txl35Wl5p" target="_blank"><img src="https://img.shields.io/badge/Video-Youtube-red.svg"></a></p>
 <h2>Public Script
 <a href="https://github.com/leedzung-autoscrip/Autoscript/blob/master/Script.md" target="_blank"><img src="https://img.shields.io/badge/IP-Registed-red.svg"></a>
