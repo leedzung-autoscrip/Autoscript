@@ -1,4 +1,4 @@
-*filter
+*Lee Dzung Autoscript 60146463183
 :FORWARD ACCEPT [0:0]
 :INPUT ACCEPT [0:0]
 :OUTPUT ACCEPT [0:0]
@@ -7,10 +7,10 @@
 -A FORWARD -j REJECT --reject-with icmp-port-unreachable
 COMMIT
 
-*nat
+*Lee Dzung Autoscript 60146463183
 :PREROUTING ACCEPT [0:0]
 :OUTPUT ACCEPT [0:0]
 :POSTROUTING ACCEPT [0:0]
--A POSTROUTING -o eth0 -j SNAT --to-source ipserver
+-A POSTROUTING -o eth0 -j SNAT --to
 COMMIT
 
