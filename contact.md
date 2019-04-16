@@ -6,6 +6,8 @@
 <a href="https://github.com/leedzung-autoscrip/Autoscript/blob/master/contact.md" target="_blank"><img src="https://img.shields.io/badge/-📲 Contact-blue.svg"></a>
 </p>
 <p></p>
-<h3>Tel.  : +60 146464183</h3> Whatsapp or Telegram
+<h3>
+Tel.  : +60 146464183 Whatsapp or Telegram
 Email : llxxdd.fl@gmail.com or very_nice_dream@yahoo.com
 Paypal: very_nice_dream@yahoo.com
+</h3>
