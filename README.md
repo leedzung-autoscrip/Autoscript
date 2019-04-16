@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/leedzung-autoscrip/Autoscript/blob/master/README.md" target="_blank"><img src="https://img.shields.io/badge/-Home-blue.svg"></a>
-<a href="https://github.com/leedzung-autoscrip/Autoscript/blob/master/demo.md" target="_blank"><img src="https://img.shields.io/badge/-Panel%20Demo-blue.svg"></a>
+<a href="https://github.com/leedzung-autoscrip/Autoscript/blob/master/demo.md" target="_blank"><img src="https://img.shields.io/badge/-Demo-blue.svg"></a>
 </p>
 <h1 align="center">Lee Dzung Autoscript</h1> 
 <p align="center"><a href="https://telegram.me/LeeDzung" target="_blank"><img src="https://img.shields.io/badge/%2B60146463183-Whatsapp%2FTelegram-brightgreen.svg"></a> </p>
