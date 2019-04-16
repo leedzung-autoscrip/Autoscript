@@ -9,5 +9,9 @@
 <h4>Tel.  : +60 146464183</h4>
 (Whatsapp/Telegram)
 <h4> Email : llxxdd.fl@gmail.com </h4>
-<h4> Paypal: very_nice_dream@yahoo.com
-</h4>
+<h5> Paypal: very_nice_dream@yahoo.com
+</h5>
+
+<p></p>
+<p align="center"><a href="https://telegram.me/LeeDzung"><img src="https://img.shields.io/badge/Copyright%20©-Lee%20Dzung%20Autoscript%202019.%20All%20rights%20reserved...-green.svg"></a></p>
+
