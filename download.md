@@ -24,3 +24,5 @@ Download software for PC
 <a href="https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.2-I601.exe" target="_blank"><img src="https://img.shields.io/badge/- Openvpn-orange.svg"></a>
   </p>
 
+<p></p>
+<p align="center"><a href="https://telegram.me/LeeDzung"><img src="https://img.shields.io/badge/Copyright%20©-Lee%20Dzung%20Autoscript%202019.%20All%20rights%20reserved...-green.svg"></a></p>
