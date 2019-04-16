@@ -29,3 +29,5 @@
   <img src="https://i.imgur.com/VvaSnlu.jpg"></p>
    <img src="https://i.imgur.com/fQY6DY7.jpg"></p>
    <img src="https://i.imgur.com/1qrFDQV.jpg"></p>
+<p></p>
+<p align="center"><a href="https://telegram.me/LeeDzung"><img src="https://img.shields.io/badge/Copyright%20©-Lee%20Dzung%20Autoscript%202019.%20All%20rights%20reserved...-green.svg"></a></p>
