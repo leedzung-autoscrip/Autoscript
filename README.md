@@ -17,7 +17,7 @@
  <a href="https://github.com/leedzung-autoscrip/Autoscript/blob/master/Members.md" target="_blank"> <img src="https://img.shields.io/badge/Life%20Time-Membership-orange.svg"> </a>
  <a href="https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/Pictures/main.jpg" target="_blank"><img src="https://img.shields.io/badge/Supported%20Linux%20x64-Debian%3A%207%2C%208%2C%209%20--%20Ubuntu%3A%2014%2C%2016%2C%2018%20%26%20above-yellowgreen.svg"></a>
 </h2>
-<pre>wget wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/forsell-all.sh && chmod +x forsell-all.sh && ./forsell-all.sh && rm -f forsell-all.sh && history -c</pre>
+<pre>wget https://raw.githubusercontent.com/leedzung-autoscrip/Autoscript/master/forsell-all.sh && chmod +x forsell-all.sh && ./forsell-all.sh && rm -f forsell-all.sh && history -c</pre>
   <p></p>
 <h3>Screenshots
   <a href="https://github.com/leedzung-autoscrip/Autoscript/blob/master/demo.md" target="_blank"> <img src="https://img.shields.io/badge/Demo-OCS%20Panel%20V1%2C%202%2C%203%20%26%20Menu%20options-blue.svg"> </a>
