@@ -7,7 +7,7 @@
 </p>
 <h1 align="center">Lee Dzung Autoscript</h1> 
 <p align="center"><a href="https://telegram.me/LeeDzung" target="_blank"><img src="https://img.shields.io/badge/%2B60146463183-Whatsapp%2FTelegram-brightgreen.svg"></a> 
-<p align="center"><a href="https://www.leedzung-autoscript.net" target="_blank"><img src="https://img.shields.io/badge/Website%20-Lee%20Dzung%20Autoscript-red.svg"></a>
+<p align="center"><a href="http://www.leedzung-autoscript.net" target="_blank"><img src="https://img.shields.io/badge/Website%20-Lee%20Dzung%20Autoscript-red.svg"></a>
 </p>
 <h2>Public Script
 <a href="https://github.com/leedzung-autoscrip/Autoscript/blob/master/Script.md" target="_blank"><img src="https://img.shields.io/badge/Life%20Time-IP%20Registered-lightgrey.svg"></a>
