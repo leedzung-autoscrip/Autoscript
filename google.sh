@@ -1,5 +1,5 @@
 #if 0
-Lee Dzung Autoscript Encryted
+Lee Dzung Autoscript Encryted 7/7/2019
 #endif
 
 static  char data [] = 
